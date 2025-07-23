@@ -1,2 +1,7 @@
-ultralytics
+streamlit
+streamlit-webrtc
 opencv-python
+numpy
+ultralytics
+torch
+av
